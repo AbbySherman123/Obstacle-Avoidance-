@@ -1,5 +1,6 @@
+// THIS IS CODE FOR AN ARDUINO ATTATCHED TO a robotic vehicle, SO THAT IT CAN AVOID OBSTACLES
+// BOSTON LEADERSHIP INSTITUTION
 // TestCode for ultrasonic Sensor HC-SR04 https://www.amazon.com/gp/product/B01COSN7O6/
-
 // Does a ping about 20 times per second and displays distance read
 // ---------------------------------------------------------------------------
 //  OTHER ARDUINO AND MAIN PARTS,
