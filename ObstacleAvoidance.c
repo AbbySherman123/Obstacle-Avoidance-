@@ -1,5 +1,5 @@
 // TestCode for ultrasonic Sensor HC-SR04 https://www.amazon.com/gp/product/B01COSN7O6/
-// D. Brancazio 7/2/2018
+
 // Does a ping about 20 times per second and displays distance read
 // ---------------------------------------------------------------------------
 //  OTHER ARDUINO AND MAIN PARTS,
